@@ -1,0 +1,12 @@
+{
+  "name": "SPEAK",
+  "displayName": "SPEAK",
+  "expo": {
+    "name": "SPEAK",
+    "slug": "SPEAK",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
